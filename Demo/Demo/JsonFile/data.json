@@ -1,0 +1,68 @@
+{
+    "success": true,
+    "msg": "data successfull show",
+    "imageData": [{
+        "image": "tree.png",
+        "name": "Avtaar",
+        "imageDetail": [{
+                "image": "tree1.png",
+                "name": "Avtaar One",
+                "detail": "Avtaar is animate"
+            },
+            {
+                "image": "tree2.png",
+                "name": "Avtaar Second",
+                "detail": "Avtaar is beautiful"
+            },
+            {
+                "image": "tree3.png",
+                "name": "Avtaar Third",
+                "detail": "Avtaar is nice"
+            },
+            {
+                "image": "tree4.png",
+                "name": "Avtaar Four",
+                "detail": "Avtaar is shine"
+            }
+        ]
+    }, {
+        "image": "flower Medium.png",
+        "name": "Flower",
+        "imageDetail": [{
+                "image": "flower1 Medium.png",
+                "name": "Flower One",
+                "detail": "Flower is beautiful"
+            },
+            {
+                "image": "flower2 Medium.png",
+                "name": "Flower Second",
+                "detail": "Flower is gorgeous"
+            },
+            {
+                "image": "flower3 Medium.png",
+                "name": "Flower Third",
+                "detail": "Flower is red"
+            }
+        ]
+    }, {
+        "image": "nature.png",
+        "name": "Nature",
+        "imageDetail": [{
+                "image": "nature1.png",
+                "name": "Nature One",
+                "detail": "Nature is beautiful"
+            },
+            {
+                "image": "nature2.png",
+                "name": "Nature Second",
+                "detail": "Nature is beautiful"
+            },
+            {
+                "image": "nature3.png",
+                "name": "Nature Third",
+                "detail": "So beautiful"
+            }
+        ]
+    }]
+
+}
